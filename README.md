@@ -1,30 +1,35 @@
-#👋 Hi, I'm Francesco | Software Developer
-💻 Desarrollador enfocado en soluciones operativas e integración de sistemas. Especializado en el despliegue de arquitecturas web y monitoreo industrial en tiempo real.
+# 👋 Hi, I'm Francesco | Software Developer
 
-#🚀 Stack Tecnológico / Tech Stack
-Backend: Python (Flask, FastAPI), Node.js.
+💻 **Software Developer** enfocado en soluciones operativas e integración de sistemas. Especializado en el despliegue de arquitecturas web y monitoreo industrial en tiempo real.
 
-Frontend: JavaScript, React, WordPress (Custom Themes), Shopify (Liquid).
+---
 
-IoT & Hardware: Orange Pi, integración de sensores, automatización industrial.
+## 🚀 Stack Tecnológico / Tech Stack
 
-Infraestructura: Linux (Ubuntu/Debian), Nginx, VPS Management (Contabo).
+* **Backend:** Python (Flask, FastAPI), Node.js.
+* **Frontend:** JavaScript, React, WordPress (Custom Themes), Shopify (Liquid).
+* **IoT & Hardware:** Orange Pi, integración de sensores, automatización industrial.
+* **Infraestructura:** Linux (Ubuntu/Debian), Nginx, VPS Management (Contabo).
 
-#📂 Proyectos Destacados / Key Projects
-🛠️ PLView → Sistema de monitoreo industrial en tiempo real desarrollado en Python para hardware embebido (Orange Pi).
+---
 
-🛒 Custom E-Commerce Architectures → Desarrollo de temas y lógica de negocio para clientes B2B (Tecniker C.A. / DRS Food Processing).
+## 📂 Proyectos Destacados / Key Projects
 
-🖥️ Server Orchestration → Scripts de automatización para despliegue de aplicaciones en entornos Linux.
+* 🛠️ **PLView** Sistema de monitoreo industrial en tiempo real desarrollado en Python para hardware embebido (Orange Pi).
+* 🛒 **Custom E-Commerce Architectures** Desarrollo de temas y lógica de negocio para clientes B2B (Tecniker C.A. / DRS Food Processing).
+* 🖥️ **Server Orchestration** Scripts de automatización para despliegue de aplicaciones en entornos Linux.
 
-#🗣️ Idiomas / Languages
-Español: Nativo.
+---
 
-English: Limited / Technical (Capaz de leer documentación técnica y comunicación básica por escrito).
+## 🗣️ Idiomas / Languages
 
-🌍 Conecta conmigo / Connect with me
-🌐 Portfolio: francescoer.dev
+* **Español:** Nativo.
+* **English:** Limited / Technical (Capaz de leer documentación técnica y comunicación básica por escrito).
 
-🔗 LinkedIn: www.linkedin.com/in/francescoer
+---
 
-✉️ Email: rodriguezfrancesco561@gmail.com
+## 🌍 Conecta conmigo / Connect with me
+
+* 🌐 **Portfolio:** [francescoer.dev](https://francescoer.dev)
+* 🔗 **LinkedIn:** [Tu Perfil de LinkedIn](www.linkedin.com/in/francescoer)
+* ✉️ **Email:** **rodriguezfrancesco561@gmail.com**
