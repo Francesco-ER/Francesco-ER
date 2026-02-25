@@ -1,27 +1,30 @@
-# 👋 Hola, soy Francesco
+👋 Hi, I'm Francesco | Software Developer
+💻 Desarrollador enfocado en soluciones operativas e integración de sistemas. Especializado en el despliegue de arquitecturas web y monitoreo industrial en tiempo real.
 
-💻 **Desarrollador Python** con interés en crear proyectos prácticos que resuelvan problemas reales.  
-Me gusta trabajar en aplicaciones web, automatización de tareas y análisis de datos.  
+🚀 Stack Tecnológico / Tech Stack
+Backend: Python (Flask, FastAPI), Node.js.
 
----
+Frontend: JavaScript, React, WordPress (Custom Themes), Shopify (Liquid).
 
-## 🚀 Tecnologías principales
-- **Backend:** Python (Flask, Django, FastAPI)  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Datos:** Pandas, Matplotlib, scikit-learn 
-- **DevOps:** Git, VPS, despliegues con Nginx/Docker 
+IoT & Hardware: Orange Pi, integración de sensores, automatización industrial.
 
----
+Infraestructura: Linux (Ubuntu/Debian), Nginx, VPS Management (Contabo).
 
-## 📂 Proyectos destacados
-- 🖥️ **PLC_monitor** → aplicación en Python para monitoreo de PLCs *(repositorio público)*.  
-- 📝 **To-Do App con Flask** *(en desarrollo)* → CRUD con login de usuarios y despliegue en servidor.  
-- 📊 **Web Scraper + Dashboard** *(próximamente)* → extracción y visualización de datos en tiempo real.  
-- 🤖 **Automatización de archivos** *(próximamente)* → script para organizar documentos de forma automática.  
+📂 Proyectos Destacados / Key Projects
+🛠️ PLView → Sistema de monitoreo industrial en tiempo real desarrollado en Python para hardware embebido (Orange Pi).
 
----
+🛒 Custom E-Commerce Architectures → Desarrollo de temas y lógica de negocio para clientes B2B (Tecniker C.A. / DRS Food Processing).
 
-## 🌍 Conecta conmigo
-- ✉️ Email: **rodriguezfrancesco561@gmail.com**  
-- 🔗 LinkedIn: *(pronto)*  
-- 🌐 Portafolio: *(pronto)*  
+🖥️ Server Orchestration → Scripts de automatización para despliegue de aplicaciones en entornos Linux.
+
+🗣️ Idiomas / Languages
+Español: Nativo.
+
+English: Limited / Technical (Capaz de leer documentación técnica y comunicación básica por escrito).
+
+🌍 Conecta conmigo / Connect with me
+🌐 Portfolio: francescoer.dev
+
+🔗 LinkedIn: www.linkedin.com/in/francescoer
+
+✉️ Email: rodriguezfrancesco561@gmail.com
